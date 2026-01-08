@@ -2,7 +2,7 @@
 
 **Professional Umami Analytics Integration for WordPress**
 
-Developed by [Hamotech Solutions](https://hamotechsolutions.com)
+Developed by [Hamotech Solutions](https://hamotechsolutions.com).
 
 ## Description
 
@@ -197,4 +197,4 @@ We welcome contributions! This plugin is designed to serve the WordPress communi
 
 ---
 
-**Made with precision by Hamotech Solutions**
+**Made with precision by Hamotech Solutions** ❤️ Richard Vaalotu
